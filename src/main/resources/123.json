@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "complaint_detail": "家里老人被误导操作了这个音乐群的付款。请尽快安排一下付款。",
+      "complaint_full_refunded": true,
+      "complaint_id": "200000020251231180390240466",
+      "complaint_media_list": [
+        {
+          "media_type": "USER_COMPLAINT_IMAGE",
+          "media_url": [
+            "https://api.mch.weixin.qq.com/v3/merchant-service/images/ChsyMDAwMDAwMjAyNTEyMzExODAzOTAyNDA0NjYYACDA97TMBigBMAE4AQ%3D%3D",
+            "https://api.mch.weixin.qq.com/v3/merchant-service/images/ChsyMDAwMDAwMjAyNTEyMzExODAzOTAyNDA0NjYYASDA97TMBigBMAE4AQ%3D%3D",
+            "https://api.mch.weixin.qq.com/v3/merchant-service/images/ChsyMDAwMDAwMjAyNTEyMzExODAzOTAyNDA0NjYYAiDA97TMBigBMAE4AQ%3D%3D"
+          ]
+        }
+      ],
+      "complaint_order_info": [
+        {
+          "amount": 88000,
+          "out_trade_no": "67afa6eca10549be89c08975d09559db",
+          "transaction_id": "4200002968202512118677289021"
+        }
+      ],
+      "complaint_state": "PROCESSED",
+      "complaint_time": "2025-12-31T18:44:11+08:00",
+      "in_platform_service": false,
+      "incoming_user_response": false,
+      "is_agent_mode": false,
+      "need_immediate_service": true,
+      "payer_phone": "CMeilONkKiAB+V6m2H57K4mYuXalPh7vN1C/PNFfRWW0guYm7LKyjFVunYkhBYjDbBnz4G1Y9dyFZ6f0k+o2cNFlwWYO5br2LYRZYASIhQVRG01tbcTIxu5UDbEr+9ltKMs0M2bvwUhfDWRfNW3ZK3myoooqKXgorP9cstfOe0TCC+IbZzKNOpd3SswGUFd/aXfrof5bfiWo4mH2tx9WXAOv0eivq4tBQ+HyaGnPdGwr39M26Q6gl+1Z8QMCyIgI2T4Lj85A6Cg9PXc9krKOKlGvC6qJfLzBh59xm6128FBru/4t96kjqmqTM3phQJthBpuLvtzSiNSaz/SK/1q3FQ==",
+      "problem_description": "不满意商家服务",
+      "problem_type": "OTHERS",
+      "service_order_info": [],
+      "user_complaint_times": 1,
+      "user_tag_list": []
+    },
+    {
+      "complaint_detail": "家里老人被误导操作了这个音乐群的付款。请尽快安排一下付款。",
+      "complaint_full_refunded": true,
+      "complaint_id": "200000020251231180390237657",
+      "complaint_media_list": [
+        {
+          "media_type": "USER_COMPLAINT_IMAGE",
+          "media_url": [
+            "https://api.mch.weixin.qq.com/v3/merchant-service/images/ChsyMDAwMDAwMjAyNTEyMzExODAzOTAyMzc2NTcYACDA97TMBigBMAE4AQ%3D%3D",
+            "https://api.mch.weixin.qq.com/v3/merchant-service/images/ChsyMDAwMDAwMjAyNTEyMzExODAzOTAyMzc2NTcYASDA97TMBigBMAE4AQ%3D%3D",
+            "https://api.mch.weixin.qq.com/v3/merchant-service/images/ChsyMDAwMDAwMjAyNTEyMzExODAzOTAyMzc2NTcYAiDA97TMBigBMAE4AQ%3D%3D"
+          ]
+        }
+      ],
+      "complaint_order_info": [
+        {
+          "amount": 298000,
+          "out_trade_no": "9bd4c969ca28445ba550fa62b812a8db",
+          "transaction_id": "4200002924202512234041696514"
+        }
+      ],
+      "complaint_state": "PROCESSED",
+      "complaint_time": "2025-12-31T18:43:38+08:00",
+      "in_platform_service": false,
+      "incoming_user_response": false,
+      "is_agent_mode": false,
+      "need_immediate_service": true,
+      "payer_phone": "EmYAakI5B1N57eyohpy6KqzDqGM1mCUgpJI4lXBNX3MgG3Fr7iyui19ROTJiAn7VD6mxJTdfwLQOj9RCrCF2KWHjO6KdhRwZU/U7evw6yTK65Dh6Kz77hDDwZb8PpriSUi+4fp0COTq6Vx9UF6G1mTbZKJGJaKEuV+Ly0kC9ieABSb3olJ4CwHNfLLSsOxyZfbuKjZpRX3mhHu6HI9OStzCXGiW+yP/PHIsbGWhhN4RZ0PDGPMUDmze0+Vx9ZB/xbGLz9KwAex8w4vaTcQnVF5z+s7ppTZxTbe6iNWDkKwf1ZTeSkQnmBeTqZVwvSRdNimTuaiW9nLa3LA5Pn0LVqg==",
+      "problem_description": "不满意商家服务",
+      "problem_type": "OTHERS",
+      "service_order_info": [],
+      "user_complaint_times": 1,
+      "user_tag_list": []
+    },
+    {
+      "complaint_detail": "上次已支付了15元9毛永久回放]了，自己丶忘记记了今早看到到又支付365元一年无限回放放。刚才看到。麻烦退退365元我。\n′",
+      "complaint_full_refunded": false,
+      "complaint_id": "200000020251231130390075279",
+      "complaint_media_list": [
+        {
+          "media_type": "USER_COMPLAINT_IMAGE",
+          "media_url": [
+            "https://api.mch.weixin.qq.com/v3/merchant-service/images/ChsyMDAwMDAwMjAyNTEyMzExMzAzOTAwNzUyNzkYACDA97TMBigBMAE4AQ%3D%3D"
+          ]
+        }
+      ],
+      "complaint_order_info": [
+        {
+          "amount": 36500,
+          "out_trade_no": "dc976c984c704a8c860be0c190a4ebdd",
+          "transaction_id": "4200002922202512314844574004"
+        }
+      ],
+      "complaint_state": "PROCESSED",
+      "complaint_time": "2025-12-31T13:06:39+08:00",
+      "in_platform_service": false,
+      "incoming_user_response": false,
+      "is_agent_mode": false,
+      "need_immediate_service": true,
+      "payer_phone": "qk70CUNCOH5ye1738AwKPX6HIqA/KDGM82JLIgzvSJK0hYM+Dkq+U5R66pOKftJG331YPzGJXLmu8FpglodqT/nS6q++IAshK+Zi0njsU+tPU7PNM8ztj66J2YneIOS195PvDKhxvAKduHX8C8ebhuwAJPYPa/Vk+BtySnJHVY0IPfteJMutv017Y3qZJ/qX48Dz/DjSLtkQw1eigZxbkIUxWi4zuscnU6TbQRqTiCV09S0JOTe8eLzwNq1jBheDr+sDQWYRznjKWo+2ahn9t/7hG+3WRP408qHV4L86tAjviPLicxCz42O3GitmK2P8BgPZsMJhM1+oWq3OzJYxnw==",
+      "problem_description": "其他问题",
+      "problem_type": "OTHERS",
+      "service_order_info": [],
+      "user_complaint_times": 2,
+      "user_tag_list": []
+    },
+    {
+      "complaint_detail": "支付成功商品课程未到帐",
+      "complaint_full_refunded": false,
+      "complaint_id": "200000020251231120390070420",
+      "complaint_media_list": [],
+      "complaint_order_info": [
+        {
+          "amount": 39900,
+          "out_trade_no": "4f1af985d7ad4ac88f56a1ef68a4180b",
+          "transaction_id": "4200002923202512310618742587"
+        }
+      ],
+      "complaint_state": "PROCESSED",
+      "complaint_time": "2025-12-31T12:59:15+08:00",
+      "in_platform_service": false,
+      "incoming_user_response": false,
+      "is_agent_mode": false,
+      "need_immediate_service": true,
+      "payer_phone": "j/jworwyGUJtqkF3SPV9bbBuaFJpjP8XhCRHZzPTpCu3GZlmgWmJaT4o8ejIoDPnWp/f44TLPA6dSAVfX4CGv/Ev2WY0RYWtFBeCDhf5fOEheAy+D39zLMAbmv602hN3i8VwXQ2jOpGZDG/Kw5JBftpYSr7QCPnTzTuY+199k4qrfY23MYHqIXbV59Wve9jkEvB9siFVtfAM/OnCX2vBjaxlBA9nC2BfrInRt9+sJciSxytJ+L3TxCiBdy4raWR3zuNkbw3gh4twsHdKKEpU6nITKuM2tQdJYc6P3VXixW6bUosq5eZJT/hV5IiAIKxTddXOpLsL6FSbRVBYVYMD3Q==",
+      "problem_description": "支付成功未到账",
+      "problem_type": "OTHERS",
+      "service_order_info": [],
+      "user_complaint_times": 1,
+      "user_tag_list": []
+    },
+    {
+      "complaint_detail": "支付后扫码不存在，无法联系课程老师",
+      "complaint_full_refunded": false,
+      "complaint_id": "200000020251231100390015207",
+      "complaint_media_list": [],
+      "complaint_order_info": [
+        {
+          "amount": 300,
+          "out_trade_no": "d174348f3236450bbc78a627e2887c94",
+          "transaction_id": "4200002936202512315706440199"
+        }
+      ],
+      "complaint_state": "PROCESSED",
+      "complaint_time": "2025-12-31T10:31:10+08:00",
+      "in_platform_service": false,
+      "incoming_user_response": false,
+      "is_agent_mode": false,
+      "need_immediate_service": true,
+      "payer_phone": "OY6yBExaDxRXt5GgjMMSt2GrEr8COSvl0OBcddIZ939kqDKW0OGcHd40n/euLItnN2WasCCuRkJP8uxVZp+M6snMs4sKJeZnrYoTgpTLIQs7sHo+M4hSHi10m0qTuYHSS4iir9XT6bb1BZHuMYWbao+sR/VDwaK4fgunDYjLyRt3WEAzctpc8X7MgFd04Y3PsdxjXGq+oa1oCDV+Z+ypX2PjEN/MLLqRZp0wTsHDpAyZn5JWeKHHZSzyE2S4NSaqP5DMSWvmZVM8AFmAWhvTDCewQ6sQNPsyt8eGeDiCaplh2MdWMO0t77b0hxw8sbw6JN/ULHgNJb5Zxk616pJZCQ==",
+      "problem_description": "其他问题",
+      "problem_type": "OTHERS",
+      "service_order_info": [],
+      "user_complaint_times": 1,
+      "user_tag_list": []
+    }
+  ],
+  "limit": 5,
+  "offset": 10
+}
